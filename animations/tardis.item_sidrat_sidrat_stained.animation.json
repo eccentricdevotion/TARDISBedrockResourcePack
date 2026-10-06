@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_sidrat_sidrat_stained.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            0.0
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sidrat_sidrat_stained.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            -0.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sidrat_sidrat_stained.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            15.25125,
+            -8.35125
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.98249996,
+            0.98249996,
+            0.98249996
+          ]
+        }
+      }
+    }
+  }
+}

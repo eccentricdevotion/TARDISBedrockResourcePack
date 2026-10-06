@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_doors_bone_door_2.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            8.5,
+            4.0
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            -59.0
+          ],
+          "scale": [
+            0.25,
+            0.25,
+            0.25
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_doors_bone_door_2.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            20.0,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.16375,
+            0.16375,
+            0.16375
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_doors_bone_door_2.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -2.0,
+            12.5,
+            -3.5
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.25,
+            0.25,
+            0.25
+          ]
+        }
+      }
+    }
+  }
+}

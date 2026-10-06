@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_tardis_blueberry_jelly_baby.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.3275,
+            25.73125,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -90.0,
+            0.0
+          ],
+          "scale": [
+            0.1965,
+            0.1965,
+            0.1965
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_blueberry_jelly_baby.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            13.5,
+            -2.25
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.3,
+            0.3,
+            0.3
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_blueberry_jelly_baby.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -2.0,
+            12.5,
+            2.0
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            -45.0
+          ],
+          "scale": [
+            0.3,
+            0.3,
+            0.3
+          ]
+        }
+      }
+    }
+  }
+}

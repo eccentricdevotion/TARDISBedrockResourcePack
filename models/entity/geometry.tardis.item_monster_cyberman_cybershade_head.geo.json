@@ -1,0 +1,199 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.tardis.item_monster_cyberman_cybershade_head",
+        "visible_bounds_width": 4.0,
+        "visible_bounds_height": 4.0,
+        "visible_bounds_offset": [
+          0.0,
+          0.75,
+          0.0
+        ],
+        "texture_width": 128,
+        "texture_height": 128
+      },
+      "bones": [
+        {
+          "name": "bone",
+          "binding": "q.item_slot_to_bone_name(context.item_slot)",
+          "pivot": [
+            0.0,
+            5.75,
+            -0.25
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -4.5,
+                0.0,
+                -4.5
+              ],
+              "size": [
+                9.0,
+                9.0,
+                0.0
+              ],
+              "pivot": [
+                -0.0,
+                -23.0,
+                0.0
+              ],
+              "uv": {
+                "south": {
+                  "uv": [
+                    40.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_south_0"
+                },
+                "north": {
+                  "uv": [
+                    40.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_north_0"
+                }
+              }
+            },
+            {
+              "origin": [
+                -7.0,
+                5.5,
+                -4.075
+              ],
+              "size": [
+                14.0,
+                6.0,
+                0.0
+              ],
+              "pivot": [
+                4.0,
+                0.5,
+                -4.075
+              ],
+              "uv": {
+                "south": {
+                  "uv": [
+                    0.0,
+                    72.0
+                  ],
+                  "uv_size": [
+                    14.0,
+                    6.0
+                  ],
+                  "material_instance": "1_south_1"
+                },
+                "north": {
+                  "uv": [
+                    0.0,
+                    66.0
+                  ],
+                  "uv_size": [
+                    14.0,
+                    6.0
+                  ],
+                  "material_instance": "1_north_1"
+                }
+              }
+            },
+            {
+              "origin": [
+                -4.0,
+                1.0,
+                -4.0
+              ],
+              "size": [
+                8.0,
+                8.0,
+                8.0
+              ],
+              "pivot": [
+                -0.0,
+                -23.0,
+                0.0
+              ],
+              "uv": {
+                "west": {
+                  "uv": [
+                    16.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_west_2"
+                },
+                "north": {
+                  "uv": [
+                    8.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_north_2"
+                },
+                "up": {
+                  "uv": [
+                    8.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_up_2"
+                },
+                "east": {
+                  "uv": [
+                    0.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_east_2"
+                },
+                "south": {
+                  "uv": [
+                    24.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    8.0
+                  ],
+                  "material_instance": "0_south_2"
+                },
+                "down": {
+                  "uv": [
+                    16.0,
+                    8.0
+                  ],
+                  "uv_size": [
+                    8.0,
+                    -8.0
+                  ],
+                  "material_instance": "0_down_2"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

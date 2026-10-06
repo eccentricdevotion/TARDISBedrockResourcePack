@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "tardis:item/tardis/lemon_jelly_baby",
+      "materials": {
+        "enchanted": "entity_alphatest_glint",
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/item/food/yellow_jelly",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.tardis.item_tardis_licorice_jelly_baby"
+      },
+      "animations": {
+        "first_person": "animation.tardis.item_tardis_lemon_jelly_baby.hold_first_person",
+        "third_person": "animation.tardis.item_tardis_lemon_jelly_baby.hold_third_person",
+        "head": "animation.tardis.item_tardis_lemon_jelly_baby.head"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "first_person": "context.is_first_person == 1.0 && (context.item_slot == 'main_hand' || context.item_slot == 'off_hand')"
+          },
+          {
+            "third_person": "context.is_first_person == 0.0 && (context.item_slot == 'main_hand' || context.item_slot == 'off_hand')"
+          },
+          {
+            "head": "context.is_first_person == 0.0 && context.item_slot == 'head'"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.item_default"
+      ]
+    }
+  }
+}

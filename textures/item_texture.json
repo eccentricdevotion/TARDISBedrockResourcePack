@@ -1,0 +1,1323 @@
+{
+  "resource_pack_name": "TBRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "tardis.item_sonic_thirteenth_icon": {
+      "textures": "textures/item/sonic/thirteenth_icon"
+    },
+    "tardis.item_sonic_mark2_icon": {
+      "textures": "textures/item/sonic/mark2_icon"
+    },
+    "tardis.item_sonic_twelfth_icon": {
+      "textures": "textures/item/sonic/twelfth_icon"
+    },
+    "tardis.item_sonic_eleventh_icon": {
+      "textures": "textures/item/sonic/eleventh_icon"
+    },
+    "tardis.item_sonic_rani_icon": {
+      "textures": "textures/item/sonic/rani_icon"
+    },
+    "tardis.item_sonic_war_on_icon": {
+      "textures": "textures/item/sonic/war_on_icon"
+    },
+    "tardis.item_sonic_mark4_on_icon": {
+      "textures": "textures/item/sonic/mark4_on_icon"
+    },
+    "tardis.item_sonic_mark3_on_icon": {
+      "textures": "textures/item/sonic/mark3_on_icon"
+    },
+    "tardis.item_sonic_tenth_icon": {
+      "textures": "textures/item/sonic/tenth_icon"
+    },
+    "tardis.item_sonic_fifteenth_on_icon": {
+      "textures": "textures/item/sonic/fifteenth_on_icon"
+    },
+    "tardis.item_sonic_mark4_icon": {
+      "textures": "textures/item/sonic/mark4_icon"
+    },
+    "tardis.item_sonic_twelfth_on_icon": {
+      "textures": "textures/item/sonic/twelfth_on_icon"
+    },
+    "tardis.item_sonic_master_icon": {
+      "textures": "textures/item/sonic/master_icon"
+    },
+    "tardis.item_sonic_mark1_icon": {
+      "textures": "textures/item/sonic/mark1_icon"
+    },
+    "tardis.item_sonic_fourteenth_open_icon": {
+      "textures": "textures/item/sonic/fourteenth_open_icon"
+    },
+    "tardis.item_sonic_river_song_icon": {
+      "textures": "textures/item/sonic/river_song_icon"
+    },
+    "tardis.item_sonic_tenth_open_icon": {
+      "textures": "textures/item/sonic/tenth_open_icon"
+    },
+    "tardis.item_sonic_sarah_jane_on_icon": {
+      "textures": "textures/item/sonic/sarah_jane_on_icon"
+    },
+    "tardis.item_sonic_umbrella_on_icon": {
+      "textures": "textures/item/sonic/umbrella_on_icon"
+    },
+    "tardis.item_sonic_ninth_open_icon": {
+      "textures": "textures/item/sonic/ninth_open_icon"
+    },
+    "tardis.item_sonic_master_on_icon": {
+      "textures": "textures/item/sonic/master_on_icon"
+    },
+    "tardis.item_sonic_river_song_on_icon": {
+      "textures": "textures/item/sonic/river_song_on_icon"
+    },
+    "tardis.item_sonic_umbrella_icon": {
+      "textures": "textures/item/sonic/umbrella_icon"
+    },
+    "tardis.item_sonic_sarah_jane_icon": {
+      "textures": "textures/item/sonic/sarah_jane_icon"
+    },
+    "tardis.item_sonic_eighth_icon": {
+      "textures": "textures/item/sonic/eighth_icon"
+    },
+    "tardis.item_sonic_mark2_on_icon": {
+      "textures": "textures/item/sonic/mark2_on_icon"
+    },
+    "tardis.item_sonic_mark3_icon": {
+      "textures": "textures/item/sonic/mark3_icon"
+    },
+    "tardis.item_sonic_mark1_on_icon": {
+      "textures": "textures/item/sonic/mark1_on_icon"
+    },
+    "tardis.item_sonic_sonic_probe_on_icon": {
+      "textures": "textures/item/sonic/sonic_probe_on_icon"
+    },
+    "tardis.item_sonic_war_icon": {
+      "textures": "textures/item/sonic/war_icon"
+    },
+    "tardis.item_sonic_sonic_probe_icon": {
+      "textures": "textures/item/sonic/sonic_probe_icon"
+    },
+    "tardis.item_sonic_fifteenth_icon": {
+      "textures": "textures/item/sonic/fifteenth_icon"
+    },
+    "tardis.item_sonic_ninth_icon": {
+      "textures": "textures/item/sonic/ninth_icon"
+    },
+    "tardis.item_sonic_rani_on_icon": {
+      "textures": "textures/item/sonic/rani_on_icon"
+    },
+    "tardis.item_sonic_eleventh_open_icon": {
+      "textures": "textures/item/sonic/eleventh_open_icon"
+    },
+    "tardis.item_sonic_fourteenth_icon": {
+      "textures": "textures/item/sonic/fourteenth_icon"
+    },
+    "tardis.item_sonic_thirteenth_on_icon": {
+      "textures": "textures/item/sonic/thirteenth_on_icon"
+    },
+    "tardis.item_sonic_eighth_on_icon": {
+      "textures": "textures/item/sonic/eighth_on_icon"
+    },
+    "tardis.item_police_box_orange_closed_icon": {
+      "textures": "textures/item/police_box/orange_closed_icon"
+    },
+    "tardis.item_police_box_purple_closed_icon": {
+      "textures": "textures/item/police_box/purple_closed_icon"
+    },
+    "tardis.item_police_box_blue_open_icon": {
+      "textures": "textures/item/police_box/blue_open_icon"
+    },
+    "tardis.item_police_box_green_glass_icon": {
+      "textures": "textures/item/police_box/green_glass_icon"
+    },
+    "tardis.item_police_box_tinted_closed_icon": {
+      "textures": "textures/item/police_box/tinted_closed_icon"
+    },
+    "tardis.item_police_box_gray_glass_icon": {
+      "textures": "textures/item/police_box/gray_glass_icon"
+    },
+    "tardis.item_police_box_orange_stained_icon": {
+      "textures": "textures/item/police_box/orange_stained_icon"
+    },
+    "tardis.item_police_box_red_open_icon": {
+      "textures": "textures/item/police_box/red_open_icon"
+    },
+    "tardis.item_police_box_pink_open_icon": {
+      "textures": "textures/item/police_box/pink_open_icon"
+    },
+    "tardis.item_police_box_yellow_open_icon": {
+      "textures": "textures/item/police_box/yellow_open_icon"
+    },
+    "tardis.item_police_box_blue_glass_icon": {
+      "textures": "textures/item/police_box/blue_glass_icon"
+    },
+    "tardis.item_police_box_pink_closed_icon": {
+      "textures": "textures/item/police_box/pink_closed_icon"
+    },
+    "tardis.item_police_box_light_gray_glass_icon": {
+      "textures": "textures/item/police_box/light_gray_glass_icon"
+    },
+    "tardis.item_police_box_white_closed_icon": {
+      "textures": "textures/item/police_box/white_closed_icon"
+    },
+    "tardis.item_police_box_white_stained_icon": {
+      "textures": "textures/item/police_box/white_stained_icon"
+    },
+    "tardis.item_police_box_magenta_open_icon": {
+      "textures": "textures/item/police_box/magenta_open_icon"
+    },
+    "tardis.item_police_box_tinted_stained_icon": {
+      "textures": "textures/item/police_box/tinted_stained_icon"
+    },
+    "tardis.item_police_box_light_blue_glass_icon": {
+      "textures": "textures/item/police_box/light_blue_glass_icon"
+    },
+    "tardis.item_police_box_magenta_closed_icon": {
+      "textures": "textures/item/police_box/magenta_closed_icon"
+    },
+    "tardis.item_police_box_magenta_stained_icon": {
+      "textures": "textures/item/police_box/magenta_stained_icon"
+    },
+    "tardis.item_police_box_tennant_open_icon": {
+      "textures": "textures/item/police_box/tennant_open_icon"
+    },
+    "tardis.item_police_box_light_blue_open_icon": {
+      "textures": "textures/item/police_box/light_blue_open_icon"
+    },
+    "tardis.item_police_box_brown_closed_icon": {
+      "textures": "textures/item/police_box/brown_closed_icon"
+    },
+    "tardis.item_police_box_green_open_icon": {
+      "textures": "textures/item/police_box/green_open_icon"
+    },
+    "tardis.item_police_box_brown_glass_icon": {
+      "textures": "textures/item/police_box/brown_glass_icon"
+    },
+    "tardis.item_police_box_black_stained_icon": {
+      "textures": "textures/item/police_box/black_stained_icon"
+    },
+    "tardis.item_police_box_white_glass_icon": {
+      "textures": "textures/item/police_box/white_glass_icon"
+    },
+    "tardis.item_police_box_red_closed_icon": {
+      "textures": "textures/item/police_box/red_closed_icon"
+    },
+    "tardis.item_police_box_green_stained_icon": {
+      "textures": "textures/item/police_box/green_stained_icon"
+    },
+    "tardis.item_police_box_cyan_closed_icon": {
+      "textures": "textures/item/police_box/cyan_closed_icon"
+    },
+    "tardis.item_police_box_purple_stained_icon": {
+      "textures": "textures/item/police_box/purple_stained_icon"
+    },
+    "tardis.item_police_box_pink_glass_icon": {
+      "textures": "textures/item/police_box/pink_glass_icon"
+    },
+    "tardis.item_battle_battle_closed_icon": {
+      "textures": "textures/item/battle/battle_closed_icon"
+    },
+    "tardis.item_police_box_lime_open_icon": {
+      "textures": "textures/item/police_box/lime_open_icon"
+    },
+    "tardis.item_police_box_gray_open_icon": {
+      "textures": "textures/item/police_box/gray_open_icon"
+    },
+    "tardis.item_police_box_pink_stained_icon": {
+      "textures": "textures/item/police_box/pink_stained_icon"
+    },
+    "tardis.item_police_box_black_glass_icon": {
+      "textures": "textures/item/police_box/black_glass_icon"
+    },
+    "tardis.item_sidrat_sidrat_open_icon": {
+      "textures": "textures/item/sidrat/sidrat_open_icon"
+    },
+    "tardis.item_pandorica_pandorica_open_icon": {
+      "textures": "textures/item/pandorica/pandorica_open_icon"
+    },
+    "tardis.item_police_box_magenta_glass_icon": {
+      "textures": "textures/item/police_box/magenta_glass_icon"
+    },
+    "tardis.item_sidrat_sidrat_glass_icon": {
+      "textures": "textures/item/sidrat/sidrat_glass_icon"
+    },
+    "tardis.item_police_box_green_closed_icon": {
+      "textures": "textures/item/police_box/green_closed_icon"
+    },
+    "tardis.item_police_box_yellow_stained_icon": {
+      "textures": "textures/item/police_box/yellow_stained_icon"
+    },
+    "tardis.item_police_box_orange_glass_icon": {
+      "textures": "textures/item/police_box/orange_glass_icon"
+    },
+    "tardis.item_police_box_yellow_closed_icon": {
+      "textures": "textures/item/police_box/yellow_closed_icon"
+    },
+    "tardis.item_weeping_angel_weeping_angel_closed_icon": {
+      "textures": "textures/item/weeping_angel/weeping_angel_closed_icon"
+    },
+    "tardis.item_police_box_brown_stained_icon": {
+      "textures": "textures/item/police_box/brown_stained_icon"
+    },
+    "tardis.item_police_box_red_glass_icon": {
+      "textures": "textures/item/police_box/red_glass_icon"
+    },
+    "tardis.item_police_box_tinted_glass_icon": {
+      "textures": "textures/item/police_box/tinted_glass_icon"
+    },
+    "tardis.item_police_box_lime_closed_icon": {
+      "textures": "textures/item/police_box/lime_closed_icon"
+    },
+    "tardis.item_police_box_gray_closed_icon": {
+      "textures": "textures/item/police_box/gray_closed_icon"
+    },
+    "tardis.item_pandorica_pandorica_glass_icon": {
+      "textures": "textures/item/pandorica/pandorica_glass_icon"
+    },
+    "tardis.item_police_box_purple_open_icon": {
+      "textures": "textures/item/police_box/purple_open_icon"
+    },
+    "tardis.item_police_box_white_open_icon": {
+      "textures": "textures/item/police_box/white_open_icon"
+    },
+    "tardis.item_police_box_yellow_glass_icon": {
+      "textures": "textures/item/police_box/yellow_glass_icon"
+    },
+    "tardis.item_police_box_light_gray_open_icon": {
+      "textures": "textures/item/police_box/light_gray_open_icon"
+    },
+    "tardis.item_police_box_lime_glass_icon": {
+      "textures": "textures/item/police_box/lime_glass_icon"
+    },
+    "tardis.item_police_box_tinted_open_icon": {
+      "textures": "textures/item/police_box/tinted_open_icon"
+    },
+    "tardis.item_police_box_light_blue_stained_icon": {
+      "textures": "textures/item/police_box/light_blue_stained_icon"
+    },
+    "tardis.item_police_box_purple_glass_icon": {
+      "textures": "textures/item/police_box/purple_glass_icon"
+    },
+    "tardis.item_weeping_angel_weeping_angel_open_icon": {
+      "textures": "textures/item/weeping_angel/weeping_angel_open_icon"
+    },
+    "tardis.item_sidrat_sidrat_stained_icon": {
+      "textures": "textures/item/sidrat/sidrat_stained_icon"
+    },
+    "tardis.item_battle_battle_stained_icon": {
+      "textures": "textures/item/battle/battle_stained_icon"
+    },
+    "tardis.item_police_box_cyan_glass_icon": {
+      "textures": "textures/item/police_box/cyan_glass_icon"
+    },
+    "tardis.item_police_box_black_open_icon": {
+      "textures": "textures/item/police_box/black_open_icon"
+    },
+    "tardis.item_police_box_light_blue_closed_icon": {
+      "textures": "textures/item/police_box/light_blue_closed_icon"
+    },
+    "tardis.item_police_box_tennant_stained_icon": {
+      "textures": "textures/item/police_box/tennant_stained_icon"
+    },
+    "tardis.item_police_box_orange_open_icon": {
+      "textures": "textures/item/police_box/orange_open_icon"
+    },
+    "tardis.item_police_box_light_gray_stained_icon": {
+      "textures": "textures/item/police_box/light_gray_stained_icon"
+    },
+    "tardis.item_police_box_light_gray_closed_icon": {
+      "textures": "textures/item/police_box/light_gray_closed_icon"
+    },
+    "tardis.item_police_box_brown_open_icon": {
+      "textures": "textures/item/police_box/brown_open_icon"
+    },
+    "tardis.item_police_box_blue_closed_icon": {
+      "textures": "textures/item/police_box/blue_closed_icon"
+    },
+    "tardis.item_battle_battle_glass_icon": {
+      "textures": "textures/item/battle/battle_glass_icon"
+    },
+    "tardis.item_weeping_angel_weeping_angel_stained_icon": {
+      "textures": "textures/item/weeping_angel/weeping_angel_stained_icon"
+    },
+    "tardis.item_police_box_cyan_stained_icon": {
+      "textures": "textures/item/police_box/cyan_stained_icon"
+    },
+    "tardis.item_police_box_cyan_open_icon": {
+      "textures": "textures/item/police_box/cyan_open_icon"
+    },
+    "tardis.item_police_box_lime_stained_icon": {
+      "textures": "textures/item/police_box/lime_stained_icon"
+    },
+    "tardis.item_police_box_blue_stained_icon": {
+      "textures": "textures/item/police_box/blue_stained_icon"
+    },
+    "tardis.item_weeping_angel_weeping_angel_glass_icon": {
+      "textures": "textures/item/weeping_angel/weeping_angel_glass_icon"
+    },
+    "tardis.item_police_box_tennant_closed_icon": {
+      "textures": "textures/item/police_box/tennant_closed_icon"
+    },
+    "tardis.item_police_box_tennant_glass_icon": {
+      "textures": "textures/item/police_box/tennant_glass_icon"
+    },
+    "tardis.item_pandorica_pandorica_closed_icon": {
+      "textures": "textures/item/pandorica/pandorica_closed_icon"
+    },
+    "tardis.item_pandorica_pandorica_stained_icon": {
+      "textures": "textures/item/pandorica/pandorica_stained_icon"
+    },
+    "tardis.item_battle_battle_open_icon": {
+      "textures": "textures/item/battle/battle_open_icon"
+    },
+    "tardis.item_sidrat_sidrat_closed_icon": {
+      "textures": "textures/item/sidrat/sidrat_closed_icon"
+    },
+    "tardis.item_police_box_gray_stained_icon": {
+      "textures": "textures/item/police_box/gray_stained_icon"
+    },
+    "tardis.item_police_box_red_stained_icon": {
+      "textures": "textures/item/police_box/red_stained_icon"
+    },
+    "tardis.item_police_box_black_closed_icon": {
+      "textures": "textures/item/police_box/black_closed_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_9_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_9_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_5_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_5_icon"
+    },
+    "tardis.item_time_rotor_console_console_0_icon": {
+      "textures": "textures/item/time_rotor/console/console_0_icon"
+    },
+    "tardis.item_time_rotor_early_early_7_icon": {
+      "textures": "textures/item/time_rotor/early/early_7_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_4_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_4_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_8_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_8_icon"
+    },
+    "tardis.item_time_rotor_early_early_6_icon": {
+      "textures": "textures/item/time_rotor/early/early_6_icon"
+    },
+    "tardis.item_time_engine_9_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_9_icon"
+    },
+    "tardis.item_time_rotor_early_early_5_icon": {
+      "textures": "textures/item/time_rotor/early/early_5_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_3_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_3_icon"
+    },
+    "tardis.item_police_box_bad_wolf_closed_icon": {
+      "textures": "textures/item/police_box/bad_wolf_closed_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_7_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_7_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_11_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_11_icon"
+    },
+    "tardis.item_time_engine_8_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_8_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_2_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_2_icon"
+    },
+    "tardis.item_time_rotor_early_early_4_icon": {
+      "textures": "textures/item/time_rotor/early/early_4_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_6_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_6_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_10_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_10_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_1_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_1_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_5_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_5_icon"
+    },
+    "tardis.item_time_engine_7_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_7_icon"
+    },
+    "tardis.item_time_rotor_early_early_3_icon": {
+      "textures": "textures/item/time_rotor/early/early_3_icon"
+    },
+    "tardis.item_time_engine_6_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_6_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_0_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_0_icon"
+    },
+    "tardis.item_time_rotor_early_early_2_icon": {
+      "textures": "textures/item/time_rotor/early/early_2_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_4_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_4_icon"
+    },
+    "tardis.item_time_rotor_early_early_1_icon": {
+      "textures": "textures/item/time_rotor/early/early_1_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_3_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_3_icon"
+    },
+    "tardis.item_time_engine_5_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_5_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_2_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_2_icon"
+    },
+    "tardis.item_time_rotor_early_early_0_icon": {
+      "textures": "textures/item/time_rotor/early/early_0_icon"
+    },
+    "tardis.item_time_engine_4_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_4_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_classic_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_classic_off_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_1_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_1_icon"
+    },
+    "tardis.item_time_engine_3_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_3_icon"
+    },
+    "tardis.item_time_engine_11_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_11_icon"
+    },
+    "tardis.item_time_engine_2_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_2_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_5_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_5_icon"
+    },
+    "tardis.item_time_rotor_hospital_hospital_0_icon": {
+      "textures": "textures/item/time_rotor/hospital/hospital_0_icon"
+    },
+    "tardis.item_time_engine_10_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_10_icon"
+    },
+    "tardis.item_type_40_type_40_stained_icon": {
+      "textures": "textures/item/type_40/type_40_stained_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_4_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_4_icon"
+    },
+    "tardis.item_time_engine_1_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_1_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_off_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor_off_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_twelfth_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_twelfth_off_icon"
+    },
+    "tardis.item_time_rotor_eleventh_eleventh_4_icon": {
+      "textures": "textures/item/time_rotor/eleventh/eleventh_4_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_3_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_3_icon"
+    },
+    "tardis.item_time_engine_0_icon": {
+      "textures": "textures/item/time_rotor/engine/engine_0_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_tennant_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_tennant_off_icon"
+    },
+    "tardis.item_time_rotor_eleventh_eleventh_3_icon": {
+      "textures": "textures/item/time_rotor/eleventh/eleventh_3_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_2_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_2_icon"
+    },
+    "tardis.item_time_rotor_eleventh_eleventh_2_icon": {
+      "textures": "textures/item/time_rotor/eleventh/eleventh_2_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_1_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_1_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_early_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_early_off_icon"
+    },
+    "tardis.item_time_rotor_eleventh_eleventh_1_icon": {
+      "textures": "textures/item/time_rotor/eleventh/eleventh_1_icon"
+    },
+    "tardis.item_time_rotor_delta_delta_0_icon": {
+      "textures": "textures/item/time_rotor/delta/delta_0_icon"
+    },
+    "tardis.item_time_rotor_eleventh_eleventh_0_icon": {
+      "textures": "textures/item/time_rotor/eleventh/eleventh_0_icon"
+    },
+    "tardis.item_type_40_type_40_open_icon": {
+      "textures": "textures/item/type_40/type_40_open_icon"
+    },
+    "tardis.item_time_rotor_tennant_tennant_4_icon": {
+      "textures": "textures/item/time_rotor/tennant/tennant_4_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_5_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_5_icon"
+    },
+    "tardis.item_type_40_type_40_closed_icon": {
+      "textures": "textures/item/type_40/type_40_closed_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_eleventh_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_eleventh_off_icon"
+    },
+    "tardis.item_time_rotor_tennant_tennant_3_icon": {
+      "textures": "textures/item/time_rotor/tennant/tennant_3_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_4_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_4_icon"
+    },
+    "tardis.item_time_rotor_tennant_tennant_2_icon": {
+      "textures": "textures/item/time_rotor/tennant/tennant_2_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_3_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_3_icon"
+    },
+    "tardis.item_time_rotor_tennant_tennant_1_icon": {
+      "textures": "textures/item/time_rotor/tennant/tennant_1_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_delta_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_delta_off_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_2_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_2_icon"
+    },
+    "tardis.item_time_rotor_tennant_tennant_0_icon": {
+      "textures": "textures/item/time_rotor/tennant/tennant_0_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_1_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_1_icon"
+    },
+    "tardis.item_time_rotor_engine_rotor_0_icon": {
+      "textures": "textures/item/time_rotor/engine_rotor/engine_rotor_0_icon"
+    },
+    "tardis.item_time_rotor_rustic_rustic_4_icon": {
+      "textures": "textures/item/time_rotor/rustic/rustic_4_icon"
+    },
+    "tardis.item_time_rotor_engine_off_icon": {
+      "textures": "textures/item/time_rotor/engine_off_icon"
+    },
+    "tardis.item_time_rotor_rustic_rustic_3_icon": {
+      "textures": "textures/item/time_rotor/rustic/rustic_3_icon"
+    },
+    "tardis.item_time_rotor_rustic_rustic_2_icon": {
+      "textures": "textures/item/time_rotor/rustic/rustic_2_icon"
+    },
+    "tardis.item_time_rotor_rustic_rustic_1_icon": {
+      "textures": "textures/item/time_rotor/rustic/rustic_1_icon"
+    },
+    "tardis.item_time_rotor_hospital_off_icon": {
+      "textures": "textures/item/time_rotor/hospital_off_icon"
+    },
+    "tardis.item_time_rotor_rustic_rustic_0_icon": {
+      "textures": "textures/item/time_rotor/rustic/rustic_0_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_rustic_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_rustic_off_icon"
+    },
+    "tardis.item_time_rotor_console_console_4_icon": {
+      "textures": "textures/item/time_rotor/console/console_4_icon"
+    },
+    "tardis.item_time_rotor_time_rotor_console_off_icon": {
+      "textures": "textures/item/time_rotor/time_rotor_console_off_icon"
+    },
+    "tardis.item_time_rotor_console_console_3_icon": {
+      "textures": "textures/item/time_rotor/console/console_3_icon"
+    },
+    "tardis.item_police_box_bad_wolf_open_icon": {
+      "textures": "textures/item/police_box/bad_wolf_open_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_7_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_7_icon"
+    },
+    "tardis.item_time_rotor_console_console_2_icon": {
+      "textures": "textures/item/time_rotor/console/console_2_icon"
+    },
+    "tardis.item_type_40_type_40_glass_icon": {
+      "textures": "textures/item/type_40/type_40_glass_icon"
+    },
+    "tardis.item_time_rotor_classic_classic_6_icon": {
+      "textures": "textures/item/time_rotor/classic/classic_6_icon"
+    },
+    "tardis.item_time_rotor_console_console_1_icon": {
+      "textures": "textures/item/time_rotor/console/console_1_icon"
+    },
+    "tardis.item_tardis_monitor_frame_right_icon": {
+      "textures": "textures/item/tardis/monitor_frame_right_icon"
+    },
+    "tardis.item_tardis_monitor_icon": {
+      "textures": "textures/item/tardis/monitor_icon"
+    },
+    "tardis.item_doors_tardis_door_extra_icon": {
+      "textures": "textures/item/doors/tardis_door_extra_icon"
+    },
+    "tardis.item_doors_bone_door_closed_icon": {
+      "textures": "textures/item/doors/bone_door_closed_icon"
+    },
+    "tardis.item_doors_classic_door_3_icon": {
+      "textures": "textures/item/doors/classic_door_3_icon"
+    },
+    "tardis.item_doors_bone_door_open_icon": {
+      "textures": "textures/item/doors/bone_door_open_icon"
+    },
+    "tardis.item_doors_tardis_door_open_icon": {
+      "textures": "textures/item/doors/tardis_door_open_icon"
+    },
+    "tardis.item_doors_centred_open_icon": {
+      "textures": "textures/item/doors/centred_open_icon"
+    },
+    "tardis.item_doors_classic_door_2_icon": {
+      "textures": "textures/item/doors/classic_door_2_icon"
+    },
+    "tardis.item_tardis_monitor_frame_middle_icon": {
+      "textures": "textures/item/tardis/monitor_frame_middle_icon"
+    },
+    "tardis.item_doors_centred_2_icon": {
+      "textures": "textures/item/doors/centred_2_icon"
+    },
+    "tardis.item_doors_classic_door_1_icon": {
+      "textures": "textures/item/doors/classic_door_1_icon"
+    },
+    "tardis.item_doors_bone_door_4_icon": {
+      "textures": "textures/item/doors/bone_door_4_icon"
+    },
+    "tardis.item_doors_centred_1_icon": {
+      "textures": "textures/item/doors/centred_1_icon"
+    },
+    "tardis.item_tardis_monitor_frame_left_icon": {
+      "textures": "textures/item/tardis/monitor_frame_left_icon"
+    },
+    "tardis.item_doors_classic_door_0_icon": {
+      "textures": "textures/item/doors/classic_door_0_icon"
+    },
+    "tardis.item_doors_bone_door_3_icon": {
+      "textures": "textures/item/doors/bone_door_3_icon"
+    },
+    "tardis.item_doors_tardis_door_2_icon": {
+      "textures": "textures/item/doors/tardis_door_2_icon"
+    },
+    "tardis.item_doors_centred_0_icon": {
+      "textures": "textures/item/doors/centred_0_icon"
+    },
+    "tardis.item_doors_sidrat_closed_icon": {
+      "textures": "textures/item/doors/sidrat_closed_icon"
+    },
+    "tardis.item_sonic_sonic_dock_on_icon": {
+      "textures": "textures/item/sonic/sonic_dock_on_icon"
+    },
+    "tardis.item_doors_sidrat_2_icon": {
+      "textures": "textures/item/doors/sidrat_2_icon"
+    },
+    "tardis.item_doors_diner_closed_icon": {
+      "textures": "textures/item/doors/diner_closed_icon"
+    },
+    "tardis.item_doors_tardis_door_closed_icon": {
+      "textures": "textures/item/doors/tardis_door_closed_icon"
+    },
+    "tardis.item_doors_bone_door_2_icon": {
+      "textures": "textures/item/doors/bone_door_2_icon"
+    },
+    "tardis.item_doors_sidrat_1_icon": {
+      "textures": "textures/item/doors/sidrat_1_icon"
+    },
+    "tardis.item_doors_tardis_door_1_icon": {
+      "textures": "textures/item/doors/tardis_door_1_icon"
+    },
+    "tardis.item_sonic_sonic_dock_off_icon": {
+      "textures": "textures/item/sonic/sonic_dock_off_icon"
+    },
+    "tardis.item_doors_classic_door_open_icon": {
+      "textures": "textures/item/doors/classic_door_open_icon"
+    },
+    "tardis.item_doors_bone_door_1_icon": {
+      "textures": "textures/item/doors/bone_door_1_icon"
+    },
+    "tardis.item_doors_sidrat_open_icon": {
+      "textures": "textures/item/doors/sidrat_open_icon"
+    },
+    "tardis.item_doors_tardis_door_0_icon": {
+      "textures": "textures/item/doors/tardis_door_0_icon"
+    },
+    "tardis.item_doors_sidrat_0_icon": {
+      "textures": "textures/item/doors/sidrat_0_icon"
+    },
+    "tardis.item_doors_classic_door_closed_icon": {
+      "textures": "textures/item/doors/classic_door_closed_icon"
+    },
+    "tardis.item_doors_bone_door_0_icon": {
+      "textures": "textures/item/doors/bone_door_0_icon"
+    },
+    "tardis.item_doors_diner_2_icon": {
+      "textures": "textures/item/doors/diner_2_icon"
+    },
+    "tardis.item_doors_diner_extra_icon": {
+      "textures": "textures/item/doors/diner_extra_icon"
+    },
+    "tardis.item_sonic_sonic_generator_icon": {
+      "textures": "textures/item/sonic/sonic_generator_icon"
+    },
+    "tardis.item_doors_diner_open_icon": {
+      "textures": "textures/item/doors/diner_open_icon"
+    },
+    "tardis.item_doors_diner_1_icon": {
+      "textures": "textures/item/doors/diner_1_icon"
+    },
+    "tardis.item_doors_centred_closed_icon": {
+      "textures": "textures/item/doors/centred_closed_icon"
+    },
+    "tardis.item_doors_diner_0_icon": {
+      "textures": "textures/item/doors/diner_0_icon"
+    },
+    "tardis.item_doors_classic_door_4_icon": {
+      "textures": "textures/item/doors/classic_door_4_icon"
+    },
+    "tardis.item_tardis_sonic_oscillator_icon": {
+      "textures": "textures/item/tardis/sonic_oscillator_icon"
+    },
+    "tardis.item_tardis_tardis_randomiser_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_randomiser_circuit_icon"
+    },
+    "tardis.item_tardis_conversion_circuit_icon": {
+      "textures": "textures/item/tardis/conversion_circuit_icon"
+    },
+    "tardis.item_tardis_brush_circuit_icon": {
+      "textures": "textures/item/tardis/brush_circuit_icon"
+    },
+    "tardis.item_key_brass_plain": {
+      "textures": "textures/item/key/brass_plain"
+    },
+    "tardis.item_tardis_diamond_disruptor_circuit_icon": {
+      "textures": "textures/item/tardis/diamond_disruptor_circuit_icon"
+    },
+    "tardis.item_tardis_painter_circuit_icon": {
+      "textures": "textures/item/tardis/painter_circuit_icon"
+    },
+    "tardis.item_key_silver_yale": {
+      "textures": "textures/item/key/silver_yale"
+    },
+    "tardis.item_tardis_knockback_circuit_icon": {
+      "textures": "textures/item/tardis/knockback_circuit_icon"
+    },
+    "tardis.item_key_silver_string": {
+      "textures": "textures/item/key/silver_string"
+    },
+    "tardis.item_tardis_emerald_environment_circuit_icon": {
+      "textures": "textures/item/tardis/emerald_environment_circuit_icon"
+    },
+    "tardis.item_tardis_rift_circuit_icon": {
+      "textures": "textures/item/tardis/rift_circuit_icon"
+    },
+    "tardis.item_key_filter": {
+      "textures": "textures/item/key/filter"
+    },
+    "tardis.item_tardis_bio_scanner_circuit_icon": {
+      "textures": "textures/item/tardis/bio_scanner_circuit_icon"
+    },
+    "tardis.item_key_silver_variant": {
+      "textures": "textures/item/key/silver_variant"
+    },
+    "tardis.item_tardis_ignite_circuit_icon": {
+      "textures": "textures/item/tardis/ignite_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_ars_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_ars_circuit_icon"
+    },
+    "tardis.item_key_seal_of_rassilon": {
+      "textures": "textures/item/key/seal_of_rassilon"
+    },
+    "tardis.item_key_silver_era": {
+      "textures": "textures/item/key/silver_era"
+    },
+    "tardis.item_key_spade_shaped": {
+      "textures": "textures/item/key/spade_shaped"
+    },
+    "tardis.item_key_silver_plain": {
+      "textures": "textures/item/key/silver_plain"
+    },
+    "tardis.item_tardis_tardis_telepathic_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_telepathic_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_locator_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_locator_circuit_icon"
+    },
+    "tardis.item_tardis_server_admin_circuit_icon": {
+      "textures": "textures/item/tardis/server_admin_circuit_icon"
+    },
+    "tardis.item_key_brass_yale": {
+      "textures": "textures/item/key/brass_yale"
+    },
+    "tardis.item_key_silver_new": {
+      "textures": "textures/item/key/silver_new"
+    },
+    "tardis.item_tardis_perception_circuit_icon": {
+      "textures": "textures/item/tardis/perception_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_invisibility_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_invisibility_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_temporal_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_temporal_circuit_icon"
+    },
+    "tardis.item_tardis_redstone_activator_circuit_icon": {
+      "textures": "textures/item/tardis/redstone_activator_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_memory_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_memory_circuit_icon"
+    },
+    "tardis.item_tardis_pickup_arrows_circuit_icon": {
+      "textures": "textures/item/tardis/pickup_arrows_circuit_icon"
+    },
+    "tardis.item_key_perception_filter": {
+      "textures": "textures/item/key/perception_filter"
+    },
+    "tardis.item_tardis_tardis_input_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_input_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_chameleon_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_chameleon_circuit_icon"
+    },
+    "tardis.item_key_bromley_gold_icon": {
+      "textures": "textures/item/key/bromley_gold_icon"
+    },
+    "tardis.item_key_brass_string": {
+      "textures": "textures/item/key/brass_string"
+    },
+    "tardis.item_tardis_tardis_stattenheim_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_stattenheim_circuit_icon"
+    },
+    "tardis.item_key_remote": {
+      "textures": "textures/item/key/remote"
+    },
+    "tardis.item_tardis_tardis_scanner_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_scanner_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_materialisation_circuit_icon": {
+      "textures": "textures/item/tardis/tardis_materialisation_circuit_icon"
+    },
+    "tardis.item_cyberman_earthshock_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_earthshock_head_icon"
+    },
+    "tardis.item_monster_mire_the_mire_head_icon": {
+      "textures": "textures/item/monster/mire/the_mire_head_icon"
+    },
+    "tardis.item_monster_vampires_vampire_of_venice_head_icon": {
+      "textures": "textures/item/monster/vampires/vampire_of_venice_head_icon"
+    },
+    "tardis.item_monster_toclafane_toclafane_attack_icon": {
+      "textures": "textures/item/monster/toclafane/toclafane_attack_icon"
+    },
+    "tardis.item_monster_ood_ood_head_icon": {
+      "textures": "textures/item/monster/ood/ood_head_icon"
+    },
+    "tardis.item_monster_cyberman_cyber_lord_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyber_lord_head_icon"
+    },
+    "tardis.item_monster_ossified_ossified_head_icon": {
+      "textures": "textures/item/monster/ossified/ossified_head_icon"
+    },
+    "tardis.item_monster_heavenly_host_heavenly_host_head_icon": {
+      "textures": "textures/item/monster/heavenly_host/heavenly_host_head_icon"
+    },
+    "tardis.item_ice_warrior_head_icon": {
+      "textures": "textures/item/monster/ice_warrior/ice_warrior_head_icon"
+    },
+    "tardis.item_monster_toclafane_toclafane_icon": {
+      "textures": "textures/item/monster/toclafane/toclafane_icon"
+    },
+    "tardis.item_monster_sycorax_sycorax_head_icon": {
+      "textures": "textures/item/monster/sycorax/sycorax_head_icon"
+    },
+    "tardis.item_weeping_angel_player_head_icon": {
+      "textures": "textures/item/monster/weeping_angel/weeping_angel_player_head_icon"
+    },
+    "tardis.item_monster_monster_chestplate": {
+      "textures": "textures/item/monster/monster_chestplate"
+    },
+    "tardis.item_cyberman_invasion_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_invasion_head_icon"
+    },
+    "tardis.item_monster_cyberman_cybershade_head_icon": {
+      "textures": "textures/item/monster/cyberman/cybershade_head_icon"
+    },
+    "tardis.item_monster_sea_devil_sea_devil_head_icon": {
+      "textures": "textures/item/monster/sea_devil/sea_devil_head_icon"
+    },
+    "tardis.item_monster_hath_hath_head_icon": {
+      "textures": "textures/item/monster/hath/hath_head_icon"
+    },
+    "tardis.item_monster_omega_omega_head_icon": {
+      "textures": "textures/item/monster/omega/omega_head_icon"
+    },
+    "tardis.item_monster_davros_davros_icon": {
+      "textures": "textures/item/monster/davros/davros_icon"
+    },
+    "tardis.item_monster_the_beast_the_beast_head_icon": {
+      "textures": "textures/item/monster/the_beast/the_beast_head_icon"
+    },
+    "tardis.item_monster_zygon_zygon_head_icon": {
+      "textures": "textures/item/monster/zygon/zygon_head_icon"
+    },
+    "tardis.item_monster_monster_leggings": {
+      "textures": "textures/item/monster/monster_leggings"
+    },
+    "tardis.item_cyberman_tenth_planet_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_tenth_planet_head_icon"
+    },
+    "tardis.item_monster_saturnynian_head_icon": {
+      "textures": "textures/item/monster/vampires/saturnynian_monster_head_icon"
+    },
+    "tardis.item_monster_k9_k9_icon": {
+      "textures": "textures/item/monster/k9/k9_icon"
+    },
+    "tardis.item_monster_dalek_sec_dalek_sec_head_icon": {
+      "textures": "textures/item/monster/dalek_sec/dalek_sec_head_icon"
+    },
+    "tardis.item_cyberman_moonbase_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_moonbase_head_icon"
+    },
+    "tardis.item_monster_ood_ood_redeye_head_icon": {
+      "textures": "textures/item/monster/ood/ood_redeye_head_icon"
+    },
+    "tardis.item_monster_strax_strax_head_icon": {
+      "textures": "textures/item/monster/strax/strax_head_icon"
+    },
+    "tardis.item_vashta_nerada_head_icon": {
+      "textures": "textures/item/monster/vashta_nerada/vashta_nerada_head_icon"
+    },
+    "tardis.item_monster_cyberman_cyberman_rise_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_rise_head_icon"
+    },
+    "tardis.item_monster_silent_silent_head_icon": {
+      "textures": "textures/item/monster/silent/silent_head_icon"
+    },
+    "tardis.item_monster_judoon_judoon_head_icon": {
+      "textures": "textures/item/monster/judoon/judoon_head_icon"
+    },
+    "tardis.item_clockwork_droid_head_icon": {
+      "textures": "textures/item/monster/clockwork_droid/clockwork_droid_head_icon"
+    },
+    "tardis.item_monster_cyberman_black_cyberman_head_icon": {
+      "textures": "textures/item/monster/cyberman/black_cyberman_head_icon"
+    },
+    "tardis.item_monster_silurian_silurian_head_icon": {
+      "textures": "textures/item/monster/silurian/silurian_head_icon"
+    },
+    "tardis.item_headless_monk_head_icon": {
+      "textures": "textures/item/monster/headless_monk/headless_monk_head_icon"
+    },
+    "tardis.item_monster_smiler_smiler_head_icon": {
+      "textures": "textures/item/monster/smiler/smiler_head_icon"
+    },
+    "tardis.item_monster_angel_of_liberty_head_icon": {
+      "textures": "textures/item/monster/angel_of_liberty/angel_of_liberty_head_icon"
+    },
+    "tardis.item_clockwork_droid_female_head_icon": {
+      "textures": "textures/item/monster/clockwork_droid/clockwork_droid_female_head_icon"
+    },
+    "tardis.item_monster_cyberman_wood_cyberman_head_icon": {
+      "textures": "textures/item/monster/cyberman/wood_cyberman_head_icon"
+    },
+    "tardis.item_monster_nimon_nimon_head_icon": {
+      "textures": "textures/item/monster/nimon/nimon_head_icon"
+    },
+    "tardis.item_empty_child_head_icon": {
+      "textures": "textures/item/monster/empty_child/empty_child_head_icon"
+    },
+    "tardis.item_monster_racnoss_racnoss_head_icon": {
+      "textures": "textures/item/monster/racnoss/racnoss_head_icon"
+    },
+    "tardis.item_monster_slitheen_slitheen_head_icon": {
+      "textures": "textures/item/monster/slitheen/slitheen_head_icon"
+    },
+    "tardis.item_monster_sontaran_sontaran_head_icon": {
+      "textures": "textures/item/monster/sontaran/sontaran_head_icon"
+    },
+    "tardis.item_monster_dalek_dalek_head_icon": {
+      "textures": "textures/item/monster/dalek/dalek_head_icon"
+    },
+    "tardis.item_monster_scarecrow_scarecrow_head_icon": {
+      "textures": "textures/item/monster/scarecrow/scarecrow_head_icon"
+    },
+    "tardis.item_monster_sutekh_sutekh_head_icon": {
+      "textures": "textures/item/monster/sutekh/sutekh_head_icon"
+    },
+    "tardis.item_monster_cyberman_cyberman_head_icon": {
+      "textures": "textures/item/monster/cyberman/cyberman_head_icon"
+    },
+    "tardis.item_monster_vampires_saturnynian_head_icon": {
+      "textures": "textures/item/monster/vampires/saturnynian_head_icon"
+    },
+    "tardis.item_weeping_angel_head_icon": {
+      "textures": "textures/item/monster/weeping_angel/weeping_angel_head_icon"
+    },
+    "tardis.item_tardis_blue_bow_tie_icon": {
+      "textures": "textures/item/tardis/blue_bow_tie_icon"
+    },
+    "tardis.item_tardis_orange_console_icon": {
+      "textures": "textures/item/tardis/orange_console_icon"
+    },
+    "tardis.item_tardis_brush_circuit_icon": {
+      "textures": "textures/item/tardis/brush_circuit_icon"
+    },
+    "tardis.item_tardis_bowl_of_custard_icon": {
+      "textures": "textures/item/tardis/bowl_of_custard_icon"
+    },
+    "tardis.item_tardis_light_blue_console_icon": {
+      "textures": "textures/item/tardis/light_blue_console_icon"
+    },
+    "tardis.item_tardis_green_console_icon": {
+      "textures": "textures/item/tardis/green_console_icon"
+    },
+    "tardis.item_tardis_player_storage_disk_icon": {
+      "textures": "textures/item/tardis/player_storage_disk_icon"
+    },
+    "tardis.item_tardis_bubblegum_jelly_baby_icon": {
+      "textures": "textures/item/tardis/bubblegum_jelly_baby_icon"
+    },
+    "tardis.item_tardis_lime_jelly_baby_icon": {
+      "textures": "textures/item/tardis/lime_jelly_baby_icon"
+    },
+    "tardis.item_tardis_artron_capacitor_storage_icon": {
+      "textures": "textures/item/tardis/artron_capacitor_storage_icon"
+    },
+    "tardis.item_tardis_pink_console_icon": {
+      "textures": "textures/item/tardis/pink_console_icon"
+    },
+    "tardis.item_tardis_blue_console_icon": {
+      "textures": "textures/item/tardis/blue_console_icon"
+    },
+    "tardis.item_tardis_light_grey_bow_tie_icon": {
+      "textures": "textures/item/tardis/light_grey_bow_tie_icon"
+    },
+    "tardis.item_tardis_tardis_television_icon": {
+      "textures": "textures/item/tardis/tardis_television_icon"
+    },
+    "tardis.item_tardis_rust_plague_sword_icon": {
+      "textures": "textures/item/tardis/rust_plague_sword_icon"
+    },
+    "tardis.item_tardis_watermelon_jelly_baby_icon": {
+      "textures": "textures/item/tardis/watermelon_jelly_baby_icon"
+    },
+    "tardis.item_tardis_preset_storage_disk_icon": {
+      "textures": "textures/item/tardis/preset_storage_disk_icon"
+    },
+    "tardis.item_tardis_grey_bow_tie_icon": {
+      "textures": "textures/item/tardis/grey_bow_tie_icon"
+    },
+    "tardis.item_tardis_stattenheim_remote_icon": {
+      "textures": "textures/item/tardis/stattenheim_remote_icon"
+    },
+    "tardis.item_tardis_orange_jelly_baby_icon": {
+      "textures": "textures/item/tardis/orange_jelly_baby_icon"
+    },
+    "tardis.item_tardis_grape_jelly_baby_icon": {
+      "textures": "textures/item/tardis/grape_jelly_baby_icon"
+    },
+    "tardis.item_tardis_raspberry_jelly_baby_icon": {
+      "textures": "textures/item/tardis/raspberry_jelly_baby_icon"
+    },
+    "tardis.item_tardis_island_punch_jelly_baby_icon": {
+      "textures": "textures/item/tardis/island_punch_jelly_baby_icon"
+    },
+    "tardis.item_tardis_yellow_bow_tie_icon": {
+      "textures": "textures/item/tardis/yellow_bow_tie_icon"
+    },
+    "tardis.item_tardis_handles_on_icon": {
+      "textures": "textures/item/tardis/handles_on_icon"
+    },
+    "tardis.item_tardis_fish_finger_icon": {
+      "textures": "textures/item/tardis/fish_finger_icon"
+    },
+    "tardis.item_tardis_brown_bow_tie_icon": {
+      "textures": "textures/item/tardis/brown_bow_tie_icon"
+    },
+    "tardis.item_tardis_red_bow_tie_icon": {
+      "textures": "textures/item/tardis/red_bow_tie_icon"
+    },
+    "tardis.item_tardis_tardis_schematic_wand_icon": {
+      "textures": "textures/item/tardis/tardis_schematic_wand_icon"
+    },
+    "tardis.item_tardis_fob_watch": {
+      "textures": "textures/item/tardis/fob_watch"
+    },
+    "tardis.item_tardis_vanilla_jelly_baby_icon": {
+      "textures": "textures/item/tardis/vanilla_jelly_baby_icon"
+    },
+    "tardis.item_tardis_cyan_bow_tie_icon": {
+      "textures": "textures/item/tardis/cyan_bow_tie_icon"
+    },
+    "tardis.item_tardis_space_suit_leggings": {
+      "textures": "textures/item/tardis/space_suit_leggings"
+    },
+    "tardis.item_key_remote": {
+      "textures": "textures/item/key/remote"
+    },
+    "tardis.item_tardis_netherite_console_icon": {
+      "textures": "textures/item/tardis/netherite_console_icon"
+    },
+    "tardis.item_tardis_brown_console_icon": {
+      "textures": "textures/item/tardis/brown_console_icon"
+    },
+    "tardis.item_tardis_white_bow_tie_icon": {
+      "textures": "textures/item/tardis/white_bow_tie_icon"
+    },
+    "tardis.item_tardis_yellow_console_icon": {
+      "textures": "textures/item/tardis/yellow_console_icon"
+    },
+    "tardis.item_tardis_authorised_control_disk_icon": {
+      "textures": "textures/item/tardis/authorised_control_disk_icon"
+    },
+    "tardis.item_tardis_magenta_bow_tie_icon": {
+      "textures": "textures/item/tardis/magenta_bow_tie_icon"
+    },
+    "tardis.item_tardis_jammy_dodger_icon": {
+      "textures": "textures/item/tardis/jammy_dodger_icon"
+    },
+    "tardis.item_tardis_cyan_console_icon": {
+      "textures": "textures/item/tardis/cyan_console_icon"
+    },
+    "tardis.item_tardis_red_console_icon": {
+      "textures": "textures/item/tardis/red_console_icon"
+    },
+    "tardis.item_tardis_blank_storage_disk_icon": {
+      "textures": "textures/item/tardis/blank_storage_disk_icon"
+    },
+    "tardis.item_tardis_black_bow_tie_icon": {
+      "textures": "textures/item/tardis/black_bow_tie_icon"
+    },
+    "tardis.item_key_brass_string": {
+      "textures": "textures/item/key/brass_string"
+    },
+    "tardis.item_tardis_save_storage_disk_icon": {
+      "textures": "textures/item/tardis/save_storage_disk_icon"
+    },
+    "tardis.item_tardis_licorice_jelly_baby_icon": {
+      "textures": "textures/item/tardis/licorice_jelly_baby_icon"
+    },
+    "tardis.item_tardis_strawberry_jelly_baby_icon": {
+      "textures": "textures/item/tardis/strawberry_jelly_baby_icon"
+    },
+    "tardis.item_tardis_blueberry_jelly_baby_icon": {
+      "textures": "textures/item/tardis/blueberry_jelly_baby_icon"
+    },
+    "tardis.item_tardis_acid_battery_icon": {
+      "textures": "textures/item/tardis/acid_battery_icon"
+    },
+    "tardis.item_tardis_lemon_jelly_baby_icon": {
+      "textures": "textures/item/tardis/lemon_jelly_baby_icon"
+    },
+    "tardis.item_tardis_light_gray_console_icon": {
+      "textures": "textures/item/tardis/light_gray_console_icon"
+    },
+    "tardis.item_tardis_white_console_icon": {
+      "textures": "textures/item/tardis/white_console_icon"
+    },
+    "tardis.item_tardis_ignite_circuit_icon": {
+      "textures": "textures/item/tardis/ignite_circuit_icon"
+    },
+    "tardis.item_tardis_custard_cream_icon": {
+      "textures": "textures/item/tardis/custard_cream_icon"
+    },
+    "tardis.item_tardis_purple_bow_tie_icon": {
+      "textures": "textures/item/tardis/purple_bow_tie_icon"
+    },
+    "tardis.item_tardis_black_console_icon": {
+      "textures": "textures/item/tardis/black_console_icon"
+    },
+    "tardis.item_tardis_tardis_communicator_icon": {
+      "textures": "textures/item/tardis/tardis_communicator_icon"
+    },
+    "tardis.item_tardis_tardis_space_helmet_icon": {
+      "textures": "textures/item/tardis/tardis_space_helmet_icon"
+    },
+    "tardis.item_tardis_tardis_locator_icon": {
+      "textures": "textures/item/tardis/tardis_locator_icon"
+    },
+    "tardis.item_tardis_lime_bow_tie_icon": {
+      "textures": "textures/item/tardis/lime_bow_tie_icon"
+    },
+    "tardis.item_tardis_magenta_console_icon": {
+      "textures": "textures/item/tardis/magenta_console_icon"
+    },
+    "tardis.item_tardis_vodka_jelly_baby_icon": {
+      "textures": "textures/item/tardis/vodka_jelly_baby_icon"
+    },
+    "tardis.item_key_silver_string": {
+      "textures": "textures/item/key/silver_string"
+    },
+    "tardis.item_key_silver_era": {
+      "textures": "textures/item/key/silver_era"
+    },
+    "tardis.item_key_brass_plain": {
+      "textures": "textures/item/key/brass_plain"
+    },
+    "tardis.item_tardis_orange_bow_tie_icon": {
+      "textures": "textures/item/tardis/orange_bow_tie_icon"
+    },
+    "tardis.item_tardis_gray_console_icon": {
+      "textures": "textures/item/tardis/gray_console_icon"
+    },
+    "tardis.item_tardis_apple_jelly_baby_icon": {
+      "textures": "textures/item/tardis/apple_jelly_baby_icon"
+    },
+    "tardis.item_tardis_rift_circuit_icon": {
+      "textures": "textures/item/tardis/rift_circuit_icon"
+    },
+    "tardis.item_tardis_tardis_artron_furnace_icon": {
+      "textures": "textures/item/tardis/tardis_artron_furnace_icon"
+    },
+    "tardis.item_tardis_light_blue_bow_tie_icon": {
+      "textures": "textures/item/tardis/light_blue_bow_tie_icon"
+    },
+    "tardis.item_tardis_green_bow_tie_icon": {
+      "textures": "textures/item/tardis/green_bow_tie_icon"
+    },
+    "tardis.item_tardis_artron_capacitor_icon": {
+      "textures": "textures/item/tardis/artron_capacitor_icon"
+    },
+    "tardis.item_tardis_purple_console_icon": {
+      "textures": "textures/item/tardis/purple_console_icon"
+    },
+    "tardis.item_tardis_tardis_biome_reader_icon": {
+      "textures": "textures/item/tardis/tardis_biome_reader_icon"
+    },
+    "tardis.item_tardis_artron_storage_cell_icon": {
+      "textures": "textures/item/tardis/artron_storage_cell_icon"
+    },
+    "tardis.item_tardis_space_suit_chestplate": {
+      "textures": "textures/item/tardis/space_suit_chestplate"
+    },
+    "tardis.item_tardis_lime_console_icon": {
+      "textures": "textures/item/tardis/lime_console_icon"
+    },
+    "tardis.item_tardis_biome_storage_disk_icon": {
+      "textures": "textures/item/tardis/biome_storage_disk_icon"
+    },
+    "tardis.item_tardis_pink_bow_tie_icon": {
+      "textures": "textures/item/tardis/pink_bow_tie_icon"
+    },
+    "tardis.item_tardis_cappuccino_jelly_baby_icon": {
+      "textures": "textures/item/tardis/cappuccino_jelly_baby_icon"
+    },
+    "tardis.item_tardis_3_d_glasses_icon": {
+      "textures": "textures/item/tardis/3_d_glasses_icon"
+    },
+    "tardis.item_tardis_rustic_console_icon": {
+      "textures": "textures/item/tardis/rustic_console_icon"
+    },
+    "tardis.item_tardis_earl_grey_jelly_baby_icon": {
+      "textures": "textures/item/tardis/earl_grey_jelly_baby_icon"
+    },
+    "tardis.item_tardis_server_admin_circuit_icon": {
+      "textures": "textures/item/tardis/server_admin_circuit_icon"
+    },
+    "tardis.item_food_paper_bag": {
+      "textures": "textures/item/food/paper_bag"
+    }
+  }
+}

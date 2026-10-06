@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_sonic_master.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -3.2,
+            13.63,
+            1.13
+          ],
+          "rotation": [
+            -180.0,
+            -25.0,
+            0.0
+          ],
+          "scale": [
+            0.68,
+            0.68,
+            0.68
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sonic_master.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            13.5,
+            -1.5
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.35,
+            0.35,
+            0.35
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sonic_master.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            28.515,
+            4.585
+          ],
+          "rotation": [
+            -0.0,
+            -180.0,
+            0.0
+          ],
+          "scale": [
+            0.655,
+            0.655,
+            0.655
+          ]
+        }
+      }
+    }
+  }
+}

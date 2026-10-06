@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "tardis:item/tardis/magenta_bow_tie",
+      "materials": {
+        "enchanted": "armor_enchanted",
+        "default": "armor"
+      },
+      "textures": {
+        "default": "textures/entity/equipment/humanoid/leather",
+        "enchanted": "textures/misc/enchanted_actor_glint"
+      },
+      "geometry": {
+        "default": "geometry.player.armor.helmet"
+      },
+      "scripts": {
+        "parent_setup": "variable.helmet_layer_visible = 0.0;"
+      },
+      "render_controllers": [
+        "controller.render.armor"
+      ]
+    }
+  }
+}

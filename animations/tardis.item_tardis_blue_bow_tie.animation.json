@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_tardis_blue_bow_tie.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -5.0,
+            12.5,
+            0.0
+          ],
+          "rotation": [
+            -180.0,
+            -25.0,
+            0.0
+          ],
+          "scale": [
+            0.68,
+            0.68,
+            0.68
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_blue_bow_tie.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.75,
+            -3.5
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_blue_bow_tie.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            16.725,
+            -2.9474998
+          ],
+          "rotation": [
+            -0.0,
+            -180.0,
+            0.0
+          ],
+          "scale": [
+            0.49124998,
+            0.49124998,
+            0.49124998
+          ]
+        }
+      }
+    }
+  }
+}

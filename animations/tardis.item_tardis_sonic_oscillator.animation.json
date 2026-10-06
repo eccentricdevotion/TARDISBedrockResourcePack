@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_tardis_sonic_oscillator.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            27.205,
+            -3.6025
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.45849997,
+            0.45849997,
+            0.45849997
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_sonic_oscillator.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -3.0,
+            12.5,
+            2.0
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            60.0
+          ],
+          "scale": [
+            0.7,
+            0.7,
+            0.5
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_tardis_sonic_oscillator.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.25,
+            14.25,
+            -3.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.4,
+            0.4,
+            0.4
+          ]
+        }
+      }
+    }
+  }
+}

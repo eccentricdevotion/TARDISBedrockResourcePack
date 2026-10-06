@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_sonic_sarah_jane_on.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.655,
+            24.9125,
+            0.655
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.3275,
+            0.3275,
+            0.3275
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sonic_sarah_jane_on.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -1.0,
+            12.5,
+            3.5
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            -30.0
+          ],
+          "scale": [
+            0.25,
+            0.25,
+            0.25
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_sonic_sarah_jane_on.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.5,
+            14.0,
+            -0.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.25,
+            0.25,
+            0.25
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_pandorica_pandorica_glass.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -9.17,
+            0.8412514,
+            9.33375
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.14625,
+            1.14625,
+            1.14625
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_pandorica_pandorica_glass.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            0.0
+          ],
+          "rotation": [
+            -45.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_pandorica_pandorica_glass.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            -2.5
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -45.0
+          ],
+          "scale": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      }
+    }
+  }
+}

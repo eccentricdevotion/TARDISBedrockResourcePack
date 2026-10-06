@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_monster_strax_strax_head.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -3.2,
+            13.63,
+            1.13
+          ],
+          "rotation": [
+            -270.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.68,
+            0.68,
+            0.68
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_strax_strax_head.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            13.5,
+            -3.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.55,
+            0.55,
+            0.55
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_strax_strax_head.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            24.2575,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.0611,
+            1.0611,
+            1.0611
+          ]
+        }
+      }
+    }
+  }
+}
