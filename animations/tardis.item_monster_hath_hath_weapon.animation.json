@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_monster_hath_hath_weapon.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            18.69,
+            2.2925
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.655,
+            0.655,
+            0.655
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_hath_hath_weapon.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.25,
+            13.63,
+            0.25
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            100.0
+          ],
+          "scale": [
+            0.68,
+            0.68,
+            0.68
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_hath_hath_weapon.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.75,
+            12.5,
+            1.25
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            0.82,
+            0.82,
+            0.82
+          ]
+        }
+      }
+    }
+  }
+}

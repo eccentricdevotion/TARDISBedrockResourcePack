@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_lazarus_mire_right_arm.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            7.25,
+            20.5,
+            2.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -180.0
+          ],
+          "scale": [
+            -0.8,
+            0.8,
+            -0.8
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_lazarus_mire_right_arm.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            20.0,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.655,
+            0.655,
+            0.655
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_lazarus_mire_right_arm.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            1.25,
+            12.5,
+            0.0
+          ],
+          "rotation": [
+            -65.0,
+            -0.0,
+            39.25
+          ],
+          "scale": [
+            0.35,
+            0.35,
+            0.35
+          ]
+        }
+      }
+    }
+  }
+}

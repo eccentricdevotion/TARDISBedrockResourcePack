@@ -1318,6 +1318,117 @@
     },
     "tardis.item_food_paper_bag": {
       "textures": "textures/item/food/paper_bag"
+    },
+    "tardis.item_monster_silent_silent_hand_right_icon": {
+      "textures": "textures/item/monster/silent/silent_hand_right_icon"
+    },
+    "tardis.item_monster_silent_silent_hand_left_icon": {
+      "textures": "textures/item/monster/silent/silent_hand_left_icon"
+    },
+    "tardis.item_lazarus_angel_of_liberty_torch_icon": {
+      "textures": "textures/item/lazarus/angel_of_liberty_torch_icon"
+    },
+    "tardis.headless_monk_sword_icon": {
+      "textures": "textures/item/monster/headless_monk/headless_monk_sword_icon"
+    },
+    "tardis.clockwork_droid_female_key_icon": {
+      "textures": "textures/item/monster/clockwork_droid/clockwork_droid_female_key_icon"
+    },
+    "tardis.item_lazarus_wood_cyber_weapon_icon": {
+      "textures": "textures/item/lazarus/wood_cyber_weapon_icon"
+    },
+    "tardis.item_lazarus_cyber_weapon_icon": {
+      "textures": "textures/item/lazarus/cyber_weapon_icon"
+    },
+    "tardis.item_lazarus_slitheen_claw_left_icon": {
+      "textures": "textures/item/lazarus/slitheen_claw_left_icon"
+    },
+    "tardis.item_lazarus_cyberman_invasion_arm_icon": {
+      "textures": "textures/item/lazarus/cyberman_invasion_arm_icon"
+    },
+    "tardis.item_lazarus_cyberman_rise_arm_icon": {
+      "textures": "textures/item/lazarus/cyberman_rise_arm_icon"
+    },
+    "tardis.item_monster_ice_warrior_ice_dagger_icon": {
+      "textures": "textures/item/monster/ice_warrior/ice_dagger_icon"
+    },
+    "tardis.clockwork_droid_key_icon": {
+      "textures": "textures/item/monster/clockwork_droid/clockwork_droid_key_icon"
+    },
+    "tardis.judoon_weapon_resting_icon": {
+      "textures": "textures/item/monster/judoon/judoon_weapon_resting_icon"
+    },
+    "tardis.item_monster_silurian_silurian_bow_icon": {
+      "textures": "textures/item/monster/silurian/silurian_bow_icon"
+    },
+    "tardis.item_lazarus_slitheen_claw_right_icon": {
+      "textures": "textures/item/lazarus/slitheen_claw_right_icon"
+    },
+    "tardis.item_monster_hath_hath_weapon_icon": {
+      "textures": "textures/item/monster/hath/hath_weapon_icon"
+    },
+    "tardis.item_lazarus_mire_left_arm_icon": {
+      "textures": "textures/item/lazarus/mire_left_arm_icon"
+    },
+    "tardis.item_monster_sontaran_sontaran_weapon_icon": {
+      "textures": "textures/item/monster/sontaran/sontaran_weapon_icon"
+    },
+    "tardis.item_lazarus_mire_right_arm_icon": {
+      "textures": "textures/item/lazarus/mire_right_arm_icon"
+    },
+    "tardis.item_monster_dalek_brass_front": {
+      "textures": "textures/item/monster/dalek/brass/front"
+    },
+    "tardis.item_monster_dalek_dalek_black_icon": {
+      "textures": "textures/item/monster/dalek/dalek_black_icon"
+    },
+    "tardis.item_monster_dalek_dalek_lime_icon": {
+      "textures": "textures/item/monster/dalek/dalek_lime_icon"
+    },
+    "tardis.item_monster_dalek_dalek_light_gray_icon": {
+      "textures": "textures/item/monster/dalek/dalek_light_gray_icon"
+    },
+    "tardis.item_monster_dalek_dalek_white_icon": {
+      "textures": "textures/item/monster/dalek/dalek_white_icon"
+    },
+    "tardis.item_monster_dalek_dalek_green_icon": {
+      "textures": "textures/item/monster/dalek/dalek_green_icon"
+    },
+    "tardis.item_monster_dalek_dalek_magenta_icon": {
+      "textures": "textures/item/monster/dalek/dalek_magenta_icon"
+    },
+    "tardis.item_monster_dalek_dalek_gray_icon": {
+      "textures": "textures/item/monster/dalek/dalek_gray_icon"
+    },
+    "tardis.item_monster_dalek_dalek_cyan_icon": {
+      "textures": "textures/item/monster/dalek/dalek_cyan_icon"
+    },
+    "tardis.item_monster_dalek_dalek_purple_icon": {
+      "textures": "textures/item/monster/dalek/dalek_purple_icon"
+    },
+    "tardis.item_monster_dalek_dalek_yellow_icon": {
+      "textures": "textures/item/monster/dalek/dalek_yellow_icon"
+    },
+    "tardis.item_monster_dalek_dalek_light_blue_icon": {
+      "textures": "textures/item/monster/dalek/dalek_light_blue_icon"
+    },
+    "tardis.item_monster_dalek_dalek_red_icon": {
+      "textures": "textures/item/monster/dalek/dalek_red_icon"
+    },
+    "tardis.item_monster_dalek_dalek_brown_icon": {
+      "textures": "textures/item/monster/dalek/dalek_brown_icon"
+    },
+    "tardis.item_monster_dalek_dalek_blue_icon": {
+      "textures": "textures/item/monster/dalek/dalek_blue_icon"
+    },
+    "tardis.item_monster_dalek_dalek_pink_icon": {
+      "textures": "textures/item/monster/dalek/dalek_pink_icon"
+    },
+    "tardis.item_monster_dalek_dalek_orange_icon": {
+      "textures": "textures/item/monster/dalek/dalek_orange_icon"
+    },
+    "tardis.item_monster_dalek_dalek_brass_icon": {
+      "textures": "textures/item/monster/dalek/dalek_brass_icon"
     }
   }
 }

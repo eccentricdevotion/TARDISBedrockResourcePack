@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.judoon_weapon_resting.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            20.0,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.655,
+            0.655,
+            0.655
+          ]
+        }
+      }
+    },
+    "animation.tardis.judoon_weapon_resting.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            2.75,
+            18.25,
+            -2.25
+          ],
+          "rotation": [
+            90.0,
+            -70.0,
+            -65.0
+          ],
+          "scale": [
+            -1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    },
+    "animation.tardis.judoon_weapon_resting.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -6.0,
+            12.5,
+            1.5
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.68,
+            0.68,
+            0.68
+          ]
+        }
+      }
+    }
+  }
+}

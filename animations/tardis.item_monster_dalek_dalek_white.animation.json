@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_monster_dalek_dalek_white.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            7.8825006,
+            0.0
+          ],
+          "rotation": [
+            -0.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.75324994,
+            0.75324994,
+            0.75324994
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_dalek_dalek_white.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            0.0
+          ],
+          "rotation": [
+            -45.0,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            0.4,
+            0.4,
+            0.4
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_monster_dalek_dalek_white.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            -0.0,
+            12.5,
+            -2.25
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -45.0
+          ],
+          "scale": [
+            0.2,
+            0.2,
+            0.2
+          ]
+        }
+      }
+    }
+  }
+}

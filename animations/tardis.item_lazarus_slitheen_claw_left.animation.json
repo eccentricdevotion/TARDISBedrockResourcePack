@@ -1,0 +1,71 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_lazarus_slitheen_claw_left.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            0.0,
+            1.6599998,
+            1.80125
+          ],
+          "rotation": [
+            -22.5,
+            -0.0,
+            0.0
+          ],
+          "scale": [
+            1.048,
+            1.048,
+            1.048
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_lazarus_slitheen_claw_left.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            5.75,
+            12.5,
+            7.5
+          ],
+          "rotation": [
+            -90.0,
+            -0.0,
+            105.0
+          ],
+          "scale": [
+            0.85,
+            0.85,
+            0.85
+          ]
+        }
+      }
+    },
+    "animation.tardis.item_lazarus_slitheen_claw_left.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [
+            6.0,
+            12.5,
+            8.0
+          ],
+          "rotation": [
+            90.0,
+            -0.0,
+            -0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    }
+  }
+}

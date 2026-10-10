@@ -1,0 +1,118 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.tardis.clockwork_droid_key",
+        "visible_bounds_width": 4.0,
+        "visible_bounds_height": 4.0,
+        "visible_bounds_offset": [
+          0.0,
+          0.75,
+          0.0
+        ],
+        "texture_width": 64,
+        "texture_height": 64
+      },
+      "bones": [
+        {
+          "name": "bone",
+          "binding": "q.item_slot_to_bone_name(context.item_slot)",
+          "pivot": [
+            0.125,
+            3.5,
+            0.0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                0.125,
+                2.0,
+                0.0
+              ],
+              "size": [
+                0.0,
+                5.0,
+                1.0
+              ],
+              "pivot": [
+                -0.0,
+                16.0,
+                0.5
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    16.0,
+                    1.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    1.0
+                  ],
+                  "uv_rotation": 90,
+                  "material_instance": "0_east_0"
+                },
+                "west": {
+                  "uv": [
+                    8.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    5.0,
+                    1.0
+                  ],
+                  "uv_rotation": 270,
+                  "material_instance": "0_west_0"
+                }
+              }
+            },
+            {
+              "origin": [
+                0.125,
+                0.0,
+                -1.0
+              ],
+              "size": [
+                0.0,
+                3.0,
+                1.0
+              ],
+              "pivot": [
+                -0.0,
+                16.0,
+                0.5
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    16.0,
+                    1.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.0
+                  ],
+                  "uv_rotation": 90,
+                  "material_instance": "0_east_1"
+                },
+                "west": {
+                  "uv": [
+                    8.0,
+                    0.0
+                  ],
+                  "uv_size": [
+                    3.0,
+                    1.0
+                  ],
+                  "uv_rotation": 270,
+                  "material_instance": "0_west_1"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
