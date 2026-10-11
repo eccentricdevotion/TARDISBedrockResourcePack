@@ -44,5 +44,5 @@ jobs:
         with:
           token: ${{ secrets.TBRP_WORKFLOW }}
           tag_name: 'v1'
-          files: 'TARDISBedrockResourcePack.mcpack'
+          files: 'release/TARDISBedrockResourcePack.mcpack'
           fail_on_unmatched_files: false
