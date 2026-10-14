@@ -25,9 +25,9 @@
 			"loop": true,
 			"bones": {
 				"bone": {
-					"position": [0, 4.77125, 0],
 					"rotation": [0, 90, 0],
-					"scale": [1.6375, 1.6375, 1.6375]
+					"position": [0, 10.5, 0],
+					"scale": 1.6375
 				}
 			}
 		}
