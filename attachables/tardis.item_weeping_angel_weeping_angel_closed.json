@@ -32,9 +32,7 @@
           }
         ]
       },
-      "render_controllers": [
-        "controller.render.item_default"
-      ]
+      "render_controllers": ["controller.render.item_default"]
     }
   }
 }

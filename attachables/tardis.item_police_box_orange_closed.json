@@ -11,9 +11,7 @@
         "default": "textures/item/police_box/orange_closed_stitched",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
-      "geometry": {
-        "default": "geometry.tardis.item_police_box_blue_closed"
-      },
+      "geometry": {"default": "geometry.tardis.item_police_box_blue_closed"},
       "animations": {
         "third_person": "animation.tardis.item_police_box_orange_closed.hold_third_person",
         "head": "animation.tardis.item_police_box_orange_closed.head",
@@ -32,9 +30,7 @@
           }
         ]
       },
-      "render_controllers": [
-        "controller.render.item_default"
-      ]
+      "render_controllers": ["controller.render.item_default"]
     }
   }
 }

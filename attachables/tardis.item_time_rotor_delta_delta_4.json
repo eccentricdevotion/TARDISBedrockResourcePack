@@ -11,9 +11,7 @@
         "default": "textures/item/time_rotor/delta/delta_0_stitched",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
-      "geometry": {
-        "default": "geometry.tardis.item_time_rotor_delta_delta_4"
-      },
+      "geometry": {"default": "geometry.tardis.item_time_rotor_delta_delta_4"},
       "animations": {
         "third_person": "animation.tardis.item_time_rotor_delta_delta_4.hold_third_person",
         "head": "animation.tardis.item_time_rotor_delta_delta_4.head",
@@ -32,9 +30,7 @@
           }
         ]
       },
-      "render_controllers": [
-        "controller.render.item_default"
-      ]
+      "render_controllers": ["controller.render.item_default"]
     }
   }
 }

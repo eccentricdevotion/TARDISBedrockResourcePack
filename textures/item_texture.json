@@ -89,9 +89,7 @@
     "tardis.item_sonic_sonic_probe_on_icon": {
       "textures": "textures/item/sonic/sonic_probe_on_icon"
     },
-    "tardis.item_sonic_war_icon": {
-      "textures": "textures/item/sonic/war_icon"
-    },
+    "tardis.item_sonic_war_icon": {"textures": "textures/item/sonic/war_icon"},
     "tardis.item_sonic_sonic_probe_icon": {
       "textures": "textures/item/sonic/sonic_probe_icon"
     },
@@ -812,9 +810,7 @@
     "tardis.item_tardis_rift_circuit_icon": {
       "textures": "textures/item/tardis/rift_circuit_icon"
     },
-    "tardis.item_key_filter": {
-      "textures": "textures/item/key/filter"
-    },
+    "tardis.item_key_filter": {"textures": "textures/item/key/filter"},
     "tardis.item_tardis_bio_scanner_circuit_icon": {
       "textures": "textures/item/tardis/bio_scanner_circuit_icon"
     },
@@ -830,9 +826,7 @@
     "tardis.item_key_seal_of_rassilon": {
       "textures": "textures/item/key/seal_of_rassilon"
     },
-    "tardis.item_key_silver_era": {
-      "textures": "textures/item/key/silver_era"
-    },
+    "tardis.item_key_silver_era": {"textures": "textures/item/key/silver_era"},
     "tardis.item_key_spade_shaped": {
       "textures": "textures/item/key/spade_shaped"
     },
@@ -848,12 +842,8 @@
     "tardis.item_tardis_server_admin_circuit_icon": {
       "textures": "textures/item/tardis/server_admin_circuit_icon"
     },
-    "tardis.item_key_brass_yale": {
-      "textures": "textures/item/key/brass_yale"
-    },
-    "tardis.item_key_silver_new": {
-      "textures": "textures/item/key/silver_new"
-    },
+    "tardis.item_key_brass_yale": {"textures": "textures/item/key/brass_yale"},
+    "tardis.item_key_silver_new": {"textures": "textures/item/key/silver_new"},
     "tardis.item_tardis_perception_circuit_icon": {
       "textures": "textures/item/tardis/perception_circuit_icon"
     },
@@ -890,9 +880,7 @@
     "tardis.item_tardis_tardis_stattenheim_circuit_icon": {
       "textures": "textures/item/tardis/tardis_stattenheim_circuit_icon"
     },
-    "tardis.item_key_remote": {
-      "textures": "textures/item/key/remote"
-    },
+    "tardis.item_key_remote": {"textures": "textures/item/key/remote"},
     "tardis.item_tardis_tardis_scanner_circuit_icon": {
       "textures": "textures/item/tardis/tardis_scanner_circuit_icon"
     },
@@ -1061,9 +1049,6 @@
     "tardis.item_tardis_orange_console_icon": {
       "textures": "textures/item/tardis/orange_console_icon"
     },
-    "tardis.item_tardis_brush_circuit_icon": {
-      "textures": "textures/item/tardis/brush_circuit_icon"
-    },
     "tardis.item_tardis_bowl_of_custard_icon": {
       "textures": "textures/item/tardis/bowl_of_custard_icon"
     },
@@ -1154,9 +1139,6 @@
     "tardis.item_tardis_space_suit_leggings": {
       "textures": "textures/item/tardis/space_suit_leggings"
     },
-    "tardis.item_key_remote": {
-      "textures": "textures/item/key/remote"
-    },
     "tardis.item_tardis_netherite_console_icon": {
       "textures": "textures/item/tardis/netherite_console_icon"
     },
@@ -1190,9 +1172,6 @@
     "tardis.item_tardis_black_bow_tie_icon": {
       "textures": "textures/item/tardis/black_bow_tie_icon"
     },
-    "tardis.item_key_brass_string": {
-      "textures": "textures/item/key/brass_string"
-    },
     "tardis.item_tardis_save_storage_disk_icon": {
       "textures": "textures/item/tardis/save_storage_disk_icon"
     },
@@ -1216,9 +1195,6 @@
     },
     "tardis.item_tardis_white_console_icon": {
       "textures": "textures/item/tardis/white_console_icon"
-    },
-    "tardis.item_tardis_ignite_circuit_icon": {
-      "textures": "textures/item/tardis/ignite_circuit_icon"
     },
     "tardis.item_tardis_custard_cream_icon": {
       "textures": "textures/item/tardis/custard_cream_icon"
@@ -1247,15 +1223,6 @@
     "tardis.item_tardis_vodka_jelly_baby_icon": {
       "textures": "textures/item/tardis/vodka_jelly_baby_icon"
     },
-    "tardis.item_key_silver_string": {
-      "textures": "textures/item/key/silver_string"
-    },
-    "tardis.item_key_silver_era": {
-      "textures": "textures/item/key/silver_era"
-    },
-    "tardis.item_key_brass_plain": {
-      "textures": "textures/item/key/brass_plain"
-    },
     "tardis.item_tardis_orange_bow_tie_icon": {
       "textures": "textures/item/tardis/orange_bow_tie_icon"
     },
@@ -1264,9 +1231,6 @@
     },
     "tardis.item_tardis_apple_jelly_baby_icon": {
       "textures": "textures/item/tardis/apple_jelly_baby_icon"
-    },
-    "tardis.item_tardis_rift_circuit_icon": {
-      "textures": "textures/item/tardis/rift_circuit_icon"
     },
     "tardis.item_tardis_tardis_artron_furnace_icon": {
       "textures": "textures/item/tardis/tardis_artron_furnace_icon"
@@ -1313,12 +1277,7 @@
     "tardis.item_tardis_earl_grey_jelly_baby_icon": {
       "textures": "textures/item/tardis/earl_grey_jelly_baby_icon"
     },
-    "tardis.item_tardis_server_admin_circuit_icon": {
-      "textures": "textures/item/tardis/server_admin_circuit_icon"
-    },
-    "tardis.item_food_paper_bag": {
-      "textures": "textures/item/food/paper_bag"
-    },
+    "tardis.item_food_paper_bag": {"textures": "textures/item/food/paper_bag"},
     "tardis.item_monster_silent_silent_hand_right_icon": {
       "textures": "textures/item/monster/silent/silent_hand_right_icon"
     },

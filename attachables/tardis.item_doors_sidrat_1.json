@@ -11,9 +11,7 @@
         "default": "textures/item/sidrat/sidrat_green",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
-      "geometry": {
-        "default": "geometry.tardis.item_doors_sidrat_closed"
-      },
+      "geometry": {"default": "geometry.tardis.item_doors_sidrat_closed"},
       "animations": {
         "third_person": "animation.tardis.item_doors_sidrat_1.hold_third_person",
         "head": "animation.tardis.item_doors_sidrat_1.head",
@@ -32,9 +30,7 @@
           }
         ]
       },
-      "render_controllers": [
-        "controller.render.item_default"
-      ]
+      "render_controllers": ["controller.render.item_default"]
     }
   }
 }

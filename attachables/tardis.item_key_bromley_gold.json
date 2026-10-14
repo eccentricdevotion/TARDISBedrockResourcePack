@@ -11,9 +11,7 @@
         "default": "textures/item/sonic/gold",
         "enchanted": "textures/misc/enchanted_item_glint"
       },
-      "geometry": {
-        "default": "geometry.tardis.item_key_bromley_gold"
-      },
+      "geometry": {"default": "geometry.tardis.item_key_bromley_gold"},
       "animations": {
         "first_person": "animation.tardis.item_key_bromley_gold.hold_first_person",
         "third_person": "animation.tardis.item_key_bromley_gold.hold_third_person",
@@ -32,9 +30,7 @@
           }
         ]
       },
-      "render_controllers": [
-        "controller.render.item_default"
-      ]
+      "render_controllers": ["controller.render.item_default"]
     }
   }
 }

@@ -1,35 +1,31 @@
 {
-	"format_version": "1.8.0",
-	"animations": {
-		"animation.tardis.item_sidrat_sidrat_closed.hold_first_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [-35, 40, 8],
-					"position": [5, 6, 0],
-					"scale": 0.25
-				}
-			}
-		},
-		"animation.tardis.item_sidrat_sidrat_closed.hold_third_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"position": [0, 12.5, 0],
-					"rotation": [90, 0, 0],
-					"scale": [1, 1, 1]
-				}
-			}
-		},
-		"animation.tardis.item_sidrat_sidrat_closed.head": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [0, 0, 0],
-					"position": [0, 15.75, -8.35125],
-					"scale": 0.9825
-				}
-			}
-		}
-	}
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_sidrat_sidrat_closed.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {"rotation": [-35, 40, 8], "position": [5, 6, 0], "scale": 0.25}
+      }
+    },
+    "animation.tardis.item_sidrat_sidrat_closed.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [0, 12.5, 0],
+          "rotation": [90, 0, 0],
+          "scale": [1, 1, 1]
+        }
+      }
+    },
+    "animation.tardis.item_sidrat_sidrat_closed.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [0, 0, 0],
+          "position": [0, 15.75, -8.35125],
+          "scale": 0.9825
+        }
+      }
+    }
+  }
 }

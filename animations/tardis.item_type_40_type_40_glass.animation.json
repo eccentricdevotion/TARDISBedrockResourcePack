@@ -1,35 +1,35 @@
 {
-	"format_version": "1.8.0",
-	"animations": {
-		"animation.tardis.item_type_40_type_40_glass.hold_first_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [30, 5, -135],
-					"position": [-4, 4, 0],
-					"scale": 0.4
-				}
-			}
-		},
-		"animation.tardis.item_type_40_type_40_glass.hold_third_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"position": [6, 11.5, 1.25],
-					"rotation": [90, 0, 90],
-					"scale": [1.4, 1.4, 1.4]
-				}
-			}
-		},
-		"animation.tardis.item_type_40_type_40_glass.head": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [0, 90, 0],
-					"position": [0, 10.25, 0],
-					"scale": 1.6375
-				}
-			}
-		}
-	}
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_type_40_type_40_glass.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [30, 5, -135],
+          "position": [-4, 4, 0],
+          "scale": 0.4
+        }
+      }
+    },
+    "animation.tardis.item_type_40_type_40_glass.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [6, 11.5, 1.25],
+          "rotation": [90, 0, 90],
+          "scale": [1.4, 1.4, 1.4]
+        }
+      }
+    },
+    "animation.tardis.item_type_40_type_40_glass.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [0, 90, 0],
+          "position": [0, 10.25, 0],
+          "scale": 1.6375
+        }
+      }
+    }
+  }
 }

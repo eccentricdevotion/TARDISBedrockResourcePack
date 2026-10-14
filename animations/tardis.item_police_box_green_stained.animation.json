@@ -2,44 +2,32 @@
   "format_version": "1.8.0",
   "animations": {
     "animation.tardis.item_police_box_green_stained.hold_first_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [30, 5, -135],
-					"position": [-4, 7, 0],
-					"scale": 0.3
-				}
-			}
-		},
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [30, 5, -135],
+          "position": [-4, 7, 0],
+          "scale": 0.3
+        }
+      }
+    },
     "animation.tardis.item_police_box_green_stained.head": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [0, 90, 0],
-					"position": [0, 10.5, 0],
-					"scale": 1.6375
-				}
-			}
-		},
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [0, 90, 0],
+          "position": [0, 10.5, 0],
+          "scale": 1.6375
+        }
+      }
+    },
     "animation.tardis.item_police_box_green_stained.hold_third_person": {
       "loop": true,
       "bones": {
         "bone": {
-          "position": [
-            6.0,
-            11.5,
-            1.25
-          ],
-          "rotation": [
-            90.0,
-            -0.0,
-            90.0
-          ],
-          "scale": [
-            1.4,
-            1.4,
-            1.4
-          ]
+          "position": [6, 11.5, 1.25],
+          "rotation": [90, 0, 90],
+          "scale": [1.4, 1.4, 1.4]
         }
       }
     }

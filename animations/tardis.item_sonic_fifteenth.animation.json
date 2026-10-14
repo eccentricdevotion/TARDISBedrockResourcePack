@@ -1,35 +1,35 @@
 {
-	"format_version": "1.8.0",
-	"animations": {
-		"animation.tardis.item_sonic_fifteenth.head": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"position": [0, 20, 0],
-					"rotation": [0, 0, 0],
-					"scale": [0.262, 0.262, 0.262]
-				}
-			}
-		},
-		"animation.tardis.item_sonic_fifteenth.hold_first_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"rotation": [290, -45, 165],
-					"position": [10, 11, 11],
-					"scale": 0.6
-				}
-			}
-		},
-		"animation.tardis.item_sonic_fifteenth.hold_third_person": {
-			"loop": true,
-			"bones": {
-				"bone": {
-					"position": [0, 14, -1],
-					"rotation": [90, 0, 0],
-					"scale": [0.25, 0.25, 0.25]
-				}
-			}
-		}
-	}
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.tardis.item_sonic_fifteenth.head": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [0, 20, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.262, 0.262, 0.262]
+        }
+      }
+    },
+    "animation.tardis.item_sonic_fifteenth.hold_first_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "rotation": [290, -45, 165],
+          "position": [10, 11, 11],
+          "scale": 0.6
+        }
+      }
+    },
+    "animation.tardis.item_sonic_fifteenth.hold_third_person": {
+      "loop": true,
+      "bones": {
+        "bone": {
+          "position": [0, 14, -1],
+          "rotation": [90, 0, 0],
+          "scale": [0.25, 0.25, 0.25]
+        }
+      }
+    }
+  }
 }
