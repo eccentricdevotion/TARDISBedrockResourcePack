@@ -127,7 +127,7 @@
       "textures": "textures/item/police_box/green_glass_icon"
     },
     "tardis.item_police_box_tinted_closed_icon": {
-      "textures": "textures/item/police_box/tinted_closed_icon"
+      "textures": "textures/item/police_box/tinted_closed_icon_grayscale"
     },
     "tardis.item_police_box_gray_glass_icon": {
       "textures": "textures/item/police_box/gray_glass_icon"
@@ -286,7 +286,7 @@
       "textures": "textures/item/police_box/lime_glass_icon"
     },
     "tardis.item_police_box_tinted_open_icon": {
-      "textures": "textures/item/police_box/tinted_open_icon"
+      "textures": "textures/item/police_box/tinted_open_icon_grayscale"
     },
     "tardis.item_police_box_light_blue_stained_icon": {
       "textures": "textures/item/police_box/light_blue_stained_icon"

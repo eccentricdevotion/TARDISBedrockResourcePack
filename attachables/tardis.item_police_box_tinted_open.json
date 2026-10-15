@@ -5,7 +5,7 @@
       "identifier": "tardis:item/police_box/tinted_open",
       "materials": {
         "enchanted": "entity_alphatest_glint",
-        "default": "entity_alphatest"
+        "default": "entity_alphatest_change_color"
       },
       "textures": {
         "default": "textures/item/police_box/tinted_open_stitched",
